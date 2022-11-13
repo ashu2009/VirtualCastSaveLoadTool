@@ -35,7 +35,11 @@ namespace VirtualCastSaveLoadTool.VirtualCastClass
                     {
                         using (StreamWriter write = new StreamWriter(vciFolderPath, false))
                         {
-                            string mainString = "vci.message.Emit(" + key + "," + containts + ")";
+
+                            string mainString = "local avatar = vci.studio.GetLocalAvatar()" +
+                                "\nlocal playerID = avatar.GetId()" +
+                                "\nlocal input = {playerID = playerID, containts = \""+ containts + "\"}" +
+                                "\nvci.message.Emit(\"" + key + "\", input)";
                             write.Write(mainString);
                         }
                     }
