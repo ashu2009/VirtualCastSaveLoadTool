@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "tAek52YnNBfQf6HNZLrq8sj2K19KOlWcx02Cm+ADXlktQjTCHOf9veABINc8u0H6LrWNy/3sHzjD+lxGC1s6YQ==",
+  "success": true,
+  "projectFilePath": "Z:\\git\\VirtualCastSaveLoadTool\\VirtualCastSaveLoadTool\\VirtualCastSaveLoadTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASHU\\.nuget\\packages\\opencvsharp4\\4.6.0.20220608\\opencvsharp4.4.6.0.20220608.nupkg.sha512",
+    "C:\\Users\\ASHU\\.nuget\\packages\\opencvsharp4.runtime.win\\4.6.0.20220608\\opencvsharp4.runtime.win.4.6.0.20220608.nupkg.sha512",
+    "C:\\Users\\ASHU\\.nuget\\packages\\opencvsharp4.windows\\4.6.0.20220608\\opencvsharp4.windows.4.6.0.20220608.nupkg.sha512",
+    "C:\\Users\\ASHU\\.nuget\\packages\\opencvsharp4.wpfextensions\\4.6.0.20220608\\opencvsharp4.wpfextensions.4.6.0.20220608.nupkg.sha512",
+    "C:\\Users\\ASHU\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\ASHU\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
